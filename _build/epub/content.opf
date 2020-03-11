@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en"
+ unique-identifier="unknown"
+ prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf"
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:language>en</dc:language>
+    <dc:title>No title provided.</dc:title>
+    <dc:description>unknown</dc:description>
+    <dc:creator>No author provided.</dc:creator>
+    <dc:contributor>unknown</dc:contributor>
+    <dc:publisher>No publisher provided.</dc:publisher>
+    <dc:rights>No copyright notice provided</dc:rights>
+    <dc:identifier id="unknown">unknown</dc:identifier>
+    <dc:date>2020-03-11T10:57:10Z</dc:date>
+    <meta property="dcterms:modified">2020-03-11T10:57:10Z</meta>
+    <meta property="ibooks:version">0.0.1</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="ibooks:binding">true</meta>
+    <meta property="ibooks:scroll-axis">vertical</meta>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="epub-0" href="SET_UP.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-1" href="genindex.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-2" href="index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-3" href=".doctrees/images/564aeb29a2e0a759592d48f87044710bf7928b8a/badge_logo.svg" media-type="image/svg+xml" />
+    <item id="epub-4" href=".github/README_TEMPLATE.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-5" href="_images/badge_logo.svg" media-type="image/svg+xml" />
+    <item id="epub-6" href="_images/ol_skeleton_keeponlearning_image.jpg" media-type="image/jpeg" />
+    <item id="epub-7" href="_images/pgce_geography_assessment_fig01.gif" media-type="image/gif" />
+    <item id="epub-8" href="_images/pgce_geography_assessment_fig02.gif" media-type="image/gif" />
+    <item id="epub-9" href="_images/pgce_geography_assessment_fig03.gif" media-type="image/gif" />
+    <item id="epub-10" href="_images/pgce_geography_assessment_fig04.jpg" media-type="image/jpeg" />
+    <item id="epub-11" href="_static/basic.css" media-type="text/css" />
+    <item id="epub-12" href="_static/epub.css" media-type="text/css" />
+    <item id="epub-13" href="_static/file.png" media-type="image/png" />
+    <item id="epub-14" href="_static/minus.png" media-type="image/png" />
+    <item id="epub-15" href="_static/plus.png" media-type="image/png" />
+    <item id="epub-16" href="_static/pygments.css" media-type="text/css" />
+    <item id="epub-17" href="content/session_00/Part_00_01.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-18" href="content/session_00/Part_00_02.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-19" href="content/session_00/Part_00_03.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-20" href="content/session_00/Part_00_04.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-21" href="content/session_00/Part_00_05.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-22" href="content/session_00/Part_00_06.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx" page-progression-direction="ltr">
+    <itemref idref="epub-2" />
+    <itemref idref="epub-17" />
+    <itemref idref="epub-18" />
+    <itemref idref="epub-19" />
+    <itemref idref="epub-20" />
+    <itemref idref="epub-21" />
+    <itemref idref="epub-22" />
+    <itemref idref="epub-1" />
+    <itemref idref="epub-0" linear="no" />
+    <itemref idref="epub-4" linear="no" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="index.xhtml" />
+  </guide>
+</package>
