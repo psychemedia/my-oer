@@ -1,8 +1,8 @@
 
-Aquatic mammals
-===============
+Assessment in secondary geography 
+==================================
 
-Content generated from the OpenLearn Unit `Aquatic mammals <https://www.open.edu/openlearn/nature-environment/aquatic-mammals/content-section-0>`_.
+Content generated from the OpenLearn Unit `Assessment in secondary geography  <https://www.open.edu/openlearn/education/assessment-secondary-geography/content-section-0>`_.
 
 
 Contents:
